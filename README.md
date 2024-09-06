@@ -2,6 +2,16 @@
 
 Welcome to the Go Simple Web App! 🚀 This is a basic web application written in Go that serves a simple HTML page. The page displays the hostname of the system where the app is running.
 
+## 📈️ Progress
+
+- [x] Create a basic Go web application
+- [x] Implement HTML template to display hostname
+- [x] Add Dockerfile for containerization [(Commit Link)](https://github.com/jagrit007/go-simple-app-devopsified/commit/974029a3dbadecef1da343dced65bf0ebdb9573e)
+- [x] Add Docker Compose file [(Commit Link)](https://github.com/jagrit007/go-simple-app-devopsified/commit/974029a3dbadecef1da343dced65bf0ebdb9573e)
+- [x] Push the docker image to self-hosted [container registry](https://gitea.jagrit.dev/jagrit007/-/packages/container/golang-webapp-devopsify/v1)
+- [ ] More coming soon... ⏱️⏱️⏱️
+
+
 ## 📜 Overview
 
 This project demonstrates a simple Go web server that:
